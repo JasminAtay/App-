@@ -4,7 +4,7 @@
 => script:{ ... 
 ``` "predeploy": "npm run build", ```
 ``` "deploy": "gh-pages -d build", },``` 
-...  ``` "homepage": "https://jasminatay.github.io/react-component" ``` 
+...  ``` "homepage": "https://jasminatay.github.io/App-" ``` 
 to deploy to github run 
 ``` yarn deploy``` go to github repo settings and select gh-page branch fror your github pages repo.
 
